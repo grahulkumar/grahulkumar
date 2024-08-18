@@ -18,7 +18,7 @@ I'm continuously honing my skills in:
 I'm focused on expanding my knowledge in full-stack development and exploring cloud services. My goal is to become a well-rounded fullstack developer, capable of building scalable, efficient, and user-friendly applications.
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/iamrahulkumar052) 
+- [LinkedIn](https://www.linkedin.com/in/grahulkumar) 
 <!---
 iamrahulkumar052/iamrahulkumar052 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
